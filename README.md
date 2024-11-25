@@ -80,8 +80,8 @@ project-root/
 ### Key Components
 Frontend
 
--SocketContext: Manages Socket.io connection
--Chat Component: Renders chat interface and handles messaging
+- SocketContext: Manages Socket.io connection
+- Chat Component: Renders chat interface and handles messaging
 
 Backend
 
