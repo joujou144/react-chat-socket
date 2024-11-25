@@ -6,7 +6,7 @@ import {
   useRef,
   useState,
 } from "react";
-import { SocketContext } from "../context/SocketContext";
+import { SocketContext } from "../context/socketContext";
 
 function Chat() {
   const { messages, users, sendMessage, setTypingStatus } =
